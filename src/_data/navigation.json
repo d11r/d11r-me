@@ -7,11 +7,16 @@
     },
     {
       "text": "GitHub",
-      "url": "https://github.com/hankchizljaw/hylia",
+      "url": "https://github.com/d11r/",
       "external": true
     },
     {
-      "text": "Example Contact Page",
+      "text": "Publications",
+      "url": "https://scholar.google.com/citations?user=za-b-mYAAAAJ",
+      "external": true
+    },
+    {
+      "text": "Contact",
       "url": "/contact",
       "external": false
     }
