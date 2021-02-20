@@ -27,4 +27,10 @@ I really like to understand things in detail, while still being able to explain 
 
 Like this one, but you already knew that Albert Einstein said this, didn't you? Anyway, you get what I'm trying to say. I'll have a nice summary at the top, resources for further reading down at the bottom, and stuff like that.
 
-Oh yeah and one more thing - I'll be rather informal. If you want to see me write technically, feel free to read some of my [publications](https://scholar.google.com/citations?user=za-b-mYAAAAJ). If you want to see me write in a short format, consider following me on [Twitter](https://twitter.com/dragos_strugar).
+Oh yeah and one more thing - I'll be rather informal. If you want to see me write technically, feel free to read some of my [publications](https://scholar.google.com/citations?user=za-b-mYAAAAJ) (reach out to me if you want PDF copies, publishers allow me to send them over to you free of charge). If you want to see me write in a short format, consider following me on [Twitter](https://twitter.com/dragos_strugar).
+
+I currently do not have a newsletter. But you can [subscribe](http://eepurl.com/c-0_vr) and I'll promise to notify you when I do start sending e-mails.
+
+- - -
+
+Thanks for sticking to the end. It's a noisy world out there, and I can't overstate how much I appreciate your attention. I sincerely hope you'll benefit from what I have to say, after all this is the primary reason I'm starting this thing! Take care!
