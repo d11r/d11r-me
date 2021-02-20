@@ -1,9 +1,7 @@
 ---
-title: 'Contact'
-permalink: '/contact/index.html'
-layout: 'layouts/contact.njk'
+layout: layouts/contact.njk
+title: Contact
+permalink: /contact/index.html
+metaDesc: Contact Information to Get in Touch with Dragos Strugar.
 ---
-
-You can have a contact page which uses a basic form. The [code with the form fields lives here](https://github.com/hankchizljaw/hylia/blob/master/src/_includes/layouts/contact.njk). 
-
-To delete the contact form for this site, delete this page in the CMS or at `src/pages/contact.md`. You probably will also want to delete `src/pages/thank-you.md`.
+Want to ask me something, just say hi, or chat? I'm all for it! You can find me on: [Twitter](https://twitter.com/dragos_strugar), [LinkedIn](https://www.linkedin.com/in/strugardragos/), and [Telegram](http://t.me/strudra). Alternatively, use the good old-fashioned contact form.
