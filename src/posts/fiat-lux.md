@@ -29,7 +29,13 @@ Like this one, but you already knew that Albert Einstein said this, didn't you? 
 
 Oh yeah and one more thing - I'll be rather informal. If you want to see me write technically, feel free to read some of my [publications](https://scholar.google.com/citations?user=za-b-mYAAAAJ) (reach out to me if you want PDF copies, publishers allow me to send them over to you free of charge). If you want to see me write in a short format, consider following me on [Twitter](https://twitter.com/dragos_strugar).
 
-I currently do not have a newsletter. But you can [subscribe](http://eepurl.com/c-0_vr) and I'll promise to notify you when I do start sending e-mails.
+## What's Next?
+
+I'll share a few bits and pieces about myself, so you can understand where my view comes from - my technical background, the story of how I got into academia etc. Then, I will start writing about things I think you might want to know. If you want to suggest a topic, feel free to [drop me a message](https://d11r.me/contact/). I read all of them.
+
+## Be Notified About New Content 
+
+I currently do not have a newsletter. But you can [subscribe](http://eepurl.com/c-0_vr) and I'll promise to notify you when I do start sending e-mails. Sorry!
 
 - - -
 
