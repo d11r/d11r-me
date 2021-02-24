@@ -24,6 +24,10 @@ Don't worry, this won't be an another post that discusses whether going to colle
 
 As funky as this sounds, I find it extremely applicable here. University education should prepare you for your future career as a programmer or an academic. College should give you a solid foundation on core computer science concepts and principles: algorithms and data structures, networking, operating systems, math, software architecture, different paradigms (OOP and FP), etc. The premise here is that by knowing this you won't have any problems whatsoever learning something new and choosing this route, in our case it's frontend engineering/development. It's true in theory, but is it in practise?
 
-### Benefits of Going to College for CS education
+### Hiring Based on Past Experience
 
-If you focus solely on your studies, you'll most likely do well in school. You'll get good grades and get more opportunities to become a researcher or a teaching assistant (TA) if you want to. That's great if you're into that kind of stuff. If you want to become a frontend engineer, odds are your GPA isn't going to matter and employers will test your problem solving abilities and look at your past experience to determine whether they want you or not. You might ask yourself at this point if college is necessary at all for frontend developers, but it's important to remember the undisputed benefits of actually getting that degree: networking, internship opportunities, and developing a study/work ethic.
+Reality is that most companies hire you based on your demonstrated skills and past experience. If you show that you already did stuff that they're doing currently, it'll be easier for them to justify hiring you and perhaps training you just a little bit to fit their needs.
+
+Getting that first job experience is incredibly hard and doing everything to maximise your chances is recommended. This 
+
+### Hiring Based on Future Potential
