@@ -11,7 +11,7 @@ tags:
 ---
 `Hello, World!` And hello to you! I'm Dragos, a student, junior researcher and a frontend engineer. With this blog I wanted to tell you what my motivation is for creating my own virtual space, and why I think you might be interested in what I have to say. And if you're wondering, [Fiat Lux](https://en.wikipedia.org/wiki/Let_there_be_light) is Latin for *Let there be light*, and I love making it my first commit message when starting a new project! If you think that was geeky, wait till you see what's coming 🧐.
 
-## What Will I Be Talking About?
+## What will I be talking about?
 
 Developers usually love talking about code, and researchers love sharing their findings. I guess I'm no different! This blog will contain my thoughts and ideas about software engineering research and academia in general, frontend web engineering using my favourite programming language JavaScript, and a few observations about building a successful career in tech.
 
@@ -19,7 +19,7 @@ Very early on during my bachelor studies I got interested in expanding what we k
 
 I also love building things for the web. I try to take it a step further, and make web an awesome place for users to be in. One area I want to be better in is **inclusion** - making the web accessible and open for everyone. I'm also a big believer that **privacy** is going to be the next big thing on the web. All these new challenges make me extremely enthusiastic for what's coming and how we all can play a role in making the web more open.
 
-## What's My Writing Style?
+## What's my writing style?
 
 I really like to understand things in detail, while still being able to explain them simply. I think this is vital, especially in tech where things are moving so fast and we're making the terms up as we go. Posts in this blog will always try get straight to the point, with a few fun facts & tips tossed in along the way.
 
@@ -29,13 +29,13 @@ Like this one, but you already knew that Albert Einstein said this, didn't you? 
 
 Oh yeah and one more thing - I'll be rather informal. If you want to see me write technically, feel free to read some of my [publications](https://scholar.google.com/citations?user=za-b-mYAAAAJ) (reach out to me if you want PDF copies, publishers allow me to send them over to you free of charge). If you want to see me write in a short format, consider following me on [Twitter](https://twitter.com/dragos_strugar).
 
-## What's Next?
+## What's next?
 
 I'll share a few bits and pieces about myself, so you can understand where my view comes from - my technical background, the story of how I got into academia etc. Then, I will start writing about things I think you might want to know. If you want to suggest a topic, feel free to [drop me a message](https://d11r.me/contact/). I read all of them.
 
-## Be Notified About New Content 
+## Notifications
 
-I currently do not have a newsletter. But you can [subscribe](http://eepurl.com/c-0_vr) and I'll promise to notify you when I do start sending e-mails. Sorry!
+I currently do not have a newsletter. But you can [subscribe](http://eepurl.com/c-0_vr) and I'll promise to notify you when I do start sending e-mails.
 
 - - -
 
