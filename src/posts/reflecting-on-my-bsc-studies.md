@@ -8,7 +8,7 @@ date: 2021-10-08T14:37:41.813Z
 tags:
   - studies
 ---
-A lot has happened over the last four years - I've completed my  Computer Science (CS) studies at [Innopolis University](https://innopolis.university/en/), published over a dozen academic papers, successfully finished an internship at a big tech company in London, and more. This article summarizes the highlights of my journey.
+A lot has happened over the last four years - I've completed my  Computer Science (CS) studies at [Innopolis University](https://innopolis.university/en/), published over a dozen academic papers, successfully finished an internship with Facebook in London, and more. This article summarizes the highlights of my journey.
 
 ## Choosing where to study
 
@@ -44,6 +44,24 @@ When I was a freshman studying at Innopolis University I immediately got curious
 
 A couple of weeks later, the prototype was ready and professors got really interested. Next thing I know, five professors join the project and start contributing new ideas and tell me that the idea is promising and that it is worth it to publish our observations. So we did, in [2018 IEEE iThings conference in Halifax, NS, Canada](https://ieeexplore.ieee.org/abstract/document/8726727)!
 
-This is what taught me how rewarding and fulfilling conducting research can be. Since then, I have [published over a dozen papers to conferences and journals](https://scholar.google.com/citations?user=za-b-mYAAAAJ), I spoke at international conferences, and I got student research competition awards. My latest one is an article published in [PeerJ Computer Science](https://peerj.com/computer-science/), a Q1 journal, and you can find it [here](https://peerj.com/articles/cs-625/).
+This is what taught me how rewarding and fulfilling conducting research can be. Since then, I have [published over a dozen papers to conferences and journals](https://scholar.google.com/citations?user=za-b-mYAAAAJ), I spoke at international conferences, and I got student research competition awards. My latest one is an article published in [PeerJ Computer Science](https://peerj.com/computer-science/), a Q1 journal, and you can find it [here](https://peerj.com/articles/cs-625/). You can find and read my papers/articles on [Google Scholar](https://scholar.google.com/citations?user=za-b-mYAAAAJ).
 
 ![Presenting our paper at DMSVIVA 2019, Lisbon, Portugal](/images/portugal_result.webp "Presenting our paper at DMSVIVA 2019, Lisbon, Portugal")
+
+## Internship at Facebook in London
+
+As I also wanted to experience industrial work and how companies build consumer-facing products, I wanted to challenge myself and get in one of the most popular and prestigious organizations in the world, Facebook. Managing Facebook’s scale is an enormous engineering effort that requires a lot of specialized knowledge in various areas of computer science. Making an impact while contributing to the mission of giving people the power to build community and bringing the World closer together was truly a dream of mine.
+
+![View of the Palace of Westminster from the South Bank](/images/london_result.webp "View of the Palace of Westminster from the South Bank")
+
+In the Summer of 2021 I interned at the company as a front end engineering intern and the experience has been nothing short of amazing. I met many amazing people, stayed for 3 months in one of the best cities on Earth, and generally had a blast working there.
+
+![Facebook London Interns group photo in Piccadilly Circus](/images/group_result.webp "Facebook London Interns group photo in Piccadilly Circus")
+
+## Summary
+
+Looking back, studying at Innopolis University has proven to be a correct step for me. Not only did I learn so much from world-renowned professors, but I also got to conduct research at two separate laboratories, and have the opportunity to interview with and intern at a big tech company.
+
+Receiving the scholarship and working in a lab at Innopolis University have allowed me to focus less on the finances, and to go all-in on studying and preparing myself for the next steps. Studying at IU really built my confidence that I'll be able to achieve almost anything I set out for myself.
+
+No regrets.
