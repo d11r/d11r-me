@@ -14,6 +14,8 @@ A lot has happened over the last four years - I've completed my  Computer Scienc
 
 I got my high school diploma in Bosnia and Herzegovina, but I was determined to study abroad after that. After a friend of mine got a scholarship from Innopolis University for his tremendous accomplishments in competitive programming, I decided to apply as well. After a series of interviews, I got an offer to study there, with a scholarship on top. 
 
+![Innopolis University](/images/iu_result.webp "Innopolis University: a view from the dormitory overpass")
+
 The decision to study at Innopolis University (IU) was not an easy one to make, but reflecting back, it was the right one for me. IU is located in [Innopolis City](https://en.wikipedia.org/wiki/Innopolis) (built in 2012), in the Republic of Tatarstan, in Russia. That's over 2500km away from home. The distance and the class schedule meant that I'd get to come home twice a year - once during the winters for 1 month, and once during the summers for 3 months.
 
 One huge plus that IU had going for itself was that both the classes and the exams were completely in English. This meant that I didn't need to spend time learning a new language before the semester starts. In addition, I really liked that the university is new, and this means that the curriculum is likely not going to be outdated. They gave scholarships to a lot of talented individuals, so that also meant that I got to meet many self-driven and enthusiastic people along the way.
