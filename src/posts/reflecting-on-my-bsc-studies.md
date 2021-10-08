@@ -25,3 +25,11 @@ On the other hand, I disliked the fact that there is pretty much nothing to do i
 ![Kazan's Cauldron: a monument](/images/kazan_result.webp "Kazan's Cauldron")
 
 But all in all, I thought the pros beat the cons. I get to concentrate on my studies, and when I finish all my exams I get to come back home and spend some quality time with family and friends. All that while receiving a monthly scholarship allowing me to become more and more financially independent. So I accepted the offer and in the Fall of 2017 I officially became a freshman of Innopolis University.
+
+## Curriculum and the structure of courses
+
+I really loved the curriculum when I first saw it. It had everything I thought was vital for every software engineer: plenty of math and many CS courses (both theoretical and practical). We also had quite a lot of elective courses to choose from and that meant that I got to learn about some things outside the standard curriculum (e.g. I took a course called *Human and Animal Brain Representation in Neurosciences* which was extremely cool and informative). You can find the whole curriculum [here](https://apply.innopolis.university/en/bachelor/).
+
+Courses were usually organized as a combination of theoretical lectures in big auditoriums and labs. I loved attending lectures, they were usually interactive and gave us, the students, an opportunity to gather and hang out before and after. I found labs to be generally very useful as well, particularly for highly technical subjects. 
+
+Most of the courses had assignments, and even though they used to be quite stressful and hard, that's where I got most of the knowledge from. When I think of it, they also taught us to structure our thoughts and communicate the ideas clearly. Some courses had essays and they were fantastic learning opportunities as well (e.g. *Game Theory and Introduction to AI by [prof. Brown](https://twitter.com/jb03hf)*, and many more).
