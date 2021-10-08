@@ -20,6 +20,6 @@ One huge plus that IU had going for itself was that both the classes and the exa
 
 On the other hand, I disliked the fact that there is pretty much nothing to do in the city. In fact, when I got there in 2017, it barely had a supermarket. Now the situation is a bit different, but at the time, going to Kazan (the closest big city, approx. 1hr away by bus) was a must for all the shopping and entertainment.
 
-![Kazan's Cauldron: a monument](/images/kazan.jpg "Kazan's Cauldron")
+![Kazan's Cauldron: a monument](/images/kazan_result.webp "Kazan's Cauldron")
 
 But all in all, I thought the pros beat the cons. I get to concentrate on my studies, and when I finish all my exams I get to come back home and spend some quality time with family and friends. All that while receiving a monthly scholarship allowing me to become more and more financially independent. So I accepted the offer and in the Fall of 2017 I officially became a freshman of Innopolis University.
