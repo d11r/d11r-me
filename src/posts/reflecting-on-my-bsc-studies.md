@@ -65,3 +65,7 @@ Looking back, studying at Innopolis University has proven to be the correct step
 Receiving the scholarship and working in a lab at Innopolis University have allowed me to focus less on the finances, and to go all-in on studying and preparing myself for the next steps. Studying at Innopolis University built my confidence that I'll be able to achieve almost anything I set out for myself.
 
 No regrets.
+
+## P.S.
+
+Want updates when I release new posts? You can [subscribe](http://eepurl.com/c-0_vr) and I'll notify you when I release new blog posts.
