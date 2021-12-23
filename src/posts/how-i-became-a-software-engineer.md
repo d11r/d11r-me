@@ -25,7 +25,7 @@ As you can imagine, things I could write and create were rather rudimentary. I b
 
 I had a 2011 iMac. It was a phenomenal machine back in the day. I just loved the form factor it provided - a big screen and all the computer internals packed in a monitor-shaped device. I loved it. I had some trouble following the coursework on it as everyone and their mother were using Windows. But I figured it out. This enabled me to do things I was fairly sure nobody in my city was able to do - write iOS and macOS apps! I didn't have an iPhone at the time, but my father had an iPad. So, I decided to write something that could be run on my dad's iPad. I went with, extremely popular at the time, [Flappy Bird](https://en.wikipedia.org/wiki/Flappy_Bird). And I learned sooo much!
 
-![iMac setup back in 2015](/images/screenshot-2021-12-23-at-18.24.14.png "iMac setup from 2015")
+![My iMac setup back in 2015](/images/screenshot-2021-12-23-at-18.24.14.png "My iMac setup from 2015")
 
 As you can imagine, going from a very simple environment of using a command line to run 100-line programs to real-world development using XCode and Objective-C (and Swift later) wasn't exactly the smoothest experience. I had to learn a plethora of things - architectural patterns for building apps (MVC in my case), handling graphical elements (images, sprites, native UI elements like buttons, labels, etc.), user interactions, and much more. I was overwhelmed, but I never stopped researching these concepts because building this game was so much fun! This is when I truly fell in love with programming.
 
