@@ -5,7 +5,7 @@ metaTitle: How I became a software engineer | Dragos Strugar Blog
 metaDesc: Dragos talks about the steps he took to go from knowing nothing about
   programming to getting a full-time software engineering job.
 socialImage: /images/dragos-strugar.png
-date: 2021-12-23T16:18:43.487Z
+date: 2021-12-23T19:53:28.022Z
 tags:
   - general
 ---
