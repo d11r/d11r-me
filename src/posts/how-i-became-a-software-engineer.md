@@ -43,10 +43,20 @@ During my high school years I also expanded my network quite a bit. I started go
 
 When I enrolled at Innopolis University, as previously described, I already had some experience developing apps. The kind of apps I made were primarily iOS ones, but I did fiddle with JavaScript a bit using NodeJS. During my uni years, I got exposed to a wide variety of different technologies, languages, tools, concepts, etc. You can read about my uni experience in [one of my previous posts](https://d11r.me/posts/reflecting-on-my-bsc-studies/).
 
-I really liked how our curriculum included so many different programming languages. At some point I used all of these: C, C++, Assembly, Eiffel, Java, Python, Haskell, JavaScript, Prolog, Bash, Matlab/Wolfram language, Verilog, SQL, etc. This helped me get a much broader picture of how everything fits together from hardware to application-level software. I was always more interested in delivering real value to end users, so I mostly explored languages that could help me maximize this. I chose JavaScript, and I didn't regret it!
+I really liked how our curriculum included so many different programming languages. At some point I used all of these: C, C++, Assembly, Eiffel, Java, Python, Haskell, JavaScript, Prolog, Bash, Matlab/Wolfram language, Verilog, SQL, etc. This helped me get a much broader picture of how everything fits together from hardware to application-level software. I was always more interested in delivering real value to end users, so I mostly explored languages that could help me maximize this. I chose JavaScript (language of the web), and I didn't regret it!
 
 ![Studying JavaScript with You Don't Know JS (Kyle Simpson)](/images/js.jpeg "Studying JavaScript with You Don't Know JS (Kyle Simpson)")
 
 I always found JavaScript (JS) to be just the right choice for me. It allowed me to move very fast with new apps I was building. It's awesome because you can build full-stack apps with it, having NodeJS on the server side. Looking back, JS played a huge role in my understanding of the architecture of more complex software systems. I learned about microservices, different types of new non-relational databases, containerization, devops, load balancing, caching, and much more. All this because the integrations with JavaScript (Node) was very easy.
 
-Later, I realized the potential of [React](https://reactjs.org/) in the front end web space, so I immediately went and experimented with it. I loved it. It solved many of the problems I was having while making interactive web apps in vanilla JS. It forced me to structure my code much better and make it more readable + maintainable, and thus made me a better developer.
+Later, I realized the potential of [React](https://reactjs.org/) in the front end web space, so I immediately went and experimented with it. I loved it. It solved many of the problems I was having while making interactive web apps in vanilla JS. It forced me to structure my code much better and make it more readable + maintainable, and thus made me a better developer. Knowing React well helped me land my first tech internship that ultimately ended with a full-time offer.
+
+## Conclusion
+
+A lot has happened since I wrote my first command-like program in QBasic. I experimented with a lot of programming languages, each serving a different purpose. I finished my computer science degree. I successfully finished an internship at a big tech company. I met so many great people in my space. I'm so grateful I knew what I wanted to do when I was just 14. I know it's a cliche, but I'm going to say it anyway - I'm just getting started.
+
+## Takeaways
+
+* Self-study was the single most important thing in me landing a full-time software development job after graduation
+* Attending meet-ups and other social events (e.g. conferences) helped me make meaningful connections
+* Breadth (how everything fits together) helped me land interviews. Depth (specifics of front end development) helped me ace them
