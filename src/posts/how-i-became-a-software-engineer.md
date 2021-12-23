@@ -9,7 +9,7 @@ date: 2021-12-23T16:18:43.487Z
 tags:
   - general
 ---
-I decided to become a software developer when I was about 14. That's when I wrote my computer program in QBasic. Fast forward almost ten years, I earned a software engineering degree and got a full-time software engineering job at a big tech company. This article describes what happened in between.
+I decided to become a software developer when I was about 14. That's when I wrote my computer program in QBasic. Fast forward almost ten years, I earned a software engineering degree and got a full-time software engineering job at a big tech company. This article goes through the things that happened in between.
 
 ## Early days
 
@@ -33,4 +33,20 @@ By the time I finished building this app, we got to more complex concepts in our
 
 ## First work experience
 
-Soon after, I got contacted by a friend asking me whether I want to build an iOS app as part of a bigger family of products for a famous singer from Serbia. I was extremely excited, and I said yes! The next couple of weeks I was coding it out, and in retrospect, it was just plain terrible. The bundle size for this very small app was about 80MB, it was slow, didn't work for all iPhones, but it worked somehow. Most of it had to be rewritten later by a more experienced developer. But I'm still amazed that they let someone with 0 experience work on a project like this. The app wasn't a joke though - it had to communicate with an API, had some weird menu animations, photo gallery, and much more. There is no way I could have known how to properly do this when I was 17. This was a pivotal moment for me as I quickly learned so much: interacting with designers to make an app come to life, interacting with a backend dev to get data from there, all that while making sure I deliver something that works to management. This experience made me see my shortcomings. Luckily, I didn't see this as a failure, but rather as to-do list of things to study!
+Soon after, I got contacted by a friend asking me whether I want to build an iOS app as part of a bigger family of products for a famous singer from Serbia. I was extremely excited, and I said yes! The next couple of weeks I was coding it out, and in retrospect, it was just plain terrible. The bundle size for this very small app was about 80MB, it was slow, didn't work for all iPhones, but it worked somehow. Most of it had to be rewritten later by a more experienced developer. But I'm still amazed that they let someone with 0 experience work on a project like this.
+
+The app wasn't a joke though - it had to communicate with an API, had some weird menu animations, photo gallery, and much more. There is no way I could have known how to properly do this when I was 17. This was a pivotal moment for me as I quickly learned so much: interacting with designers to make an app come to life, interacting with a backend dev to get data from there, all that while making sure I deliver something that works to management. This experience made me see my shortcomings. Luckily, I didn't see this as a failure, but rather as to-do list of things to study!
+
+During my high school years I also expanded my network quite a bit. I started going to dev meet-ups (like [this one](https://www.facebook.com/groups/1049663091713875)), listening to other senior devs talk about tech, careers, and many other relevant topics. I got to find out what is trendy at the moment. Being at these meet-ups even helped me get several short-term programming gigs.
+
+## Programming while at university
+
+When I enrolled at Innopolis University, as previously described, I already had some experience developing apps. The kind of apps I made were primarily iOS ones, but I did fiddle with JavaScript a bit using NodeJS. During my uni years, I got exposed to a wide variety of different technologies, languages, tools, concepts, etc. You can read about my uni experience in [one of my previous posts](https://d11r.me/posts/reflecting-on-my-bsc-studies/).
+
+I really liked how our curriculum included so many different programming languages. At some point I used all of these: C, C++, Assembly, Eiffel, Java, Python, Haskell, JavaScript, Prolog, Bash, Matlab/Wolfram language, Verilog, SQL, etc. This helped me get a much broader picture of how everything fits together from hardware to application-level software. I was always more interested in delivering real value to end users, so I mostly explored languages that could help me maximize this. I chose JavaScript, and I didn't regret it!
+
+![Studying JavaScript with You Don't Know JS (Kyle Simpson)](/images/js.jpeg "Studying JavaScript with You Don't Know JS (Kyle Simpson)")
+
+I always found JavaScript (JS) to be just the right choice for me. It allowed me to move very fast with new apps I was building. It's awesome because you can build full-stack apps with it, having NodeJS on the server side. Looking back, JS played a huge role in my understanding of the architecture of more complex software systems. I learned about microservices, different types of new non-relational databases, containerization, devops, load balancing, caching, and much more. All this because the integrations with JavaScript (Node) was very easy.
+
+Later, I realized the potential of [React](https://reactjs.org/) in the front end web space, so I immediately went and experimented with it. I loved it. It solved many of the problems I was having while making interactive web apps in vanilla JS. It forced me to structure my code much better and make it more readable + maintainable, and thus made me a better developer.
